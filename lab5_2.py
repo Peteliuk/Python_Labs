@@ -22,5 +22,7 @@ or (a<w and b<w)
 or (b<w and c<w)
 or (a<w and c<w)):
     print('Congratulation! You are a lifter!')
+elif(a<=0 and b<=0 and c<=0):
+    print('Blue Death Screen!!')
 else:
     print('Very bad')
